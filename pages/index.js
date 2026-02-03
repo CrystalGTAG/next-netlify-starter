@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Averxity.lol!</title>
+        <title>Averxity.lol</title>
         <link rel="icon" href="/favicon.ico"/>
       </Head>
 
